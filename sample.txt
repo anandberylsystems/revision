@@ -1,0 +1,3 @@
+hello this is program to open file and write into file with write mode 
+if you want to append anything in existing file open it in append mode if you'll open in inwrite mode it'll override on previous sentences 
+wite mwthod append sentences at the end of sentences instead of new lines in puts methods.
